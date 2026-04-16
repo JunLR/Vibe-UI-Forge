@@ -2,22 +2,26 @@
 
 本项目提供了一套基于 shadcn/ui 的 UI 开发工作流，让人可以使用 shadcn SKILL，结合项目中的设计规范资源，生成符合规范的 UI 界面。
 
-## shadcn SKILL
+
+
+## 项目概述
+
+本项目包含skill内容和两个设计规范的 UI playground
+
+### shadcn SKILL
 
 项目集成了 shadcn SKILL，提供组件选择、代码生成、样式规范等能力。
 
 详细 SKILL 说明请参考：[.agent/skills/shadcn/SKILL.md](./.agent/skills/shadcn/SKILL.md)
 
-## 项目概述
-
-本项目包含skill内容和两个设计规范的 UI playground：
+### 规范资源与生成物
 
 | 项目 | 设计规范 | 说明 |
 |------|----------|------|
 | `devui-playground` | devui | devui风格组件的 playground  |
 | `harmony-ui-playground` | Harmony | Harmony 风格组件的 playground |
 
-## 设计资源&生成物的项目目录结构（harmony-ui-playground 为例）
+设计资源&生成物的项目目录结构（harmony-ui-playground 为例）
 
 ```
 harmony-ui-playground/
