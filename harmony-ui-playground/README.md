@@ -19,5 +19,5 @@ npm run dev
 
 - `.storybook/`: Storybook 配置
 - `src/component/`: 组件目录（统一）
-- `src/styles/devui-tokens.css`: 设计 token
+- `src/styles/tokens.css`: 设计 token
 - `components.json`: shadcn 配置

@@ -29,7 +29,7 @@ harmony-ui-playground/
 ├── src/
 │   ├── component/        # 组件目录（统一维护）
 │   ├── blocks/           # Block 页面模板
-│   ├── styles/           # 设计 token（devui-tokens.css）
+│   ├── styles/           # 设计 token（tokens.css）
 │   ├── stories/          # 组件预览 stories
 │   ├── lib/              # 工具函数
 │   └── App.tsx           # 应用入口

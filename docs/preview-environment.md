@@ -107,10 +107,10 @@ Storybook 提供了良好的调试环境：
 - 动效
 - z-index
 
-这些预览会自动解析 `src/styles/devui-tokens.css` 文件，实时反映设计规范的当前状态。
+这些预览会自动解析 `src/styles/tokens.css` 文件，实时反映设计规范的当前状态。
 
-## 相关资源
+## 相关资源(harmony-ui-playground为例)
 
 - Storybook 配置：`harmony-ui-playground/.storybook/`
 - 组件 stories：`harmony-ui-playground/src/component/*/*.stories.tsx`
-- 设计 Token：`harmony-ui-playground/src/styles/devui-tokens.css`
+- 设计 Token：`harmony-ui-playground/src/styles/tokens.css`

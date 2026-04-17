@@ -1,6 +1,6 @@
 @import "tailwindcss";
 @import "tw-animate-css";
-@import "./styles/devui-tokens.css";
+@import "./styles/tokens.css";
 
 @theme inline {
   --font-sans: var(--devui-font-family-sans);

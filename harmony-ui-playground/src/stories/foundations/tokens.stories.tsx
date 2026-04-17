@@ -1,7 +1,7 @@
 import type { Meta, StoryObj } from "@storybook/react-vite"
 import { useMemo, type ReactNode } from "react"
 import globalSource from "@/index.css?raw"
-import devuiTokenSource from "@/styles/devui-tokens.css?raw"
+import devuiTokenSource from "@/styles/tokens.css?raw"
 
 type TokenEntry = {
   name: string

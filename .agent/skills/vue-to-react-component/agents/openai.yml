@@ -1,0 +1,7 @@
+interface:
+  display_name: "Vue to React Component"
+  short_description: "Convert Vue source into reusable React component files"
+  default_prompt: "Use $vue-to-react-component to convert these Vue component files into React output files under .artifacts and generate a browser-previewable artifact."
+
+policy:
+  allow_implicit_invocation: true
